@@ -25,3 +25,4 @@ By the end of this project, I will:
 * have a gallery of visualized technics using the python libraries.
 * get to use Github more often.
 * have a better understanding with fMRI data.
+* have experience with Compute Canada 
