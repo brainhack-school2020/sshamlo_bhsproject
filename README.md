@@ -6,13 +6,12 @@ I'm a second year master student in Computer Science working in Bioinformatics. 
 
 # Background
 
-<img src="images/mindreading.jpg" div align=”center”>
 
+Like most part of the body, brain consumes oxygen and that is done by the flow of blood which carries it. When we see something or think about something, blood rushes into a certain part of the brain that consumes the oxygen most. We can take images of the brain using fMRI machines which measure the oxygen levels within the brain. If we have a sufficient examples of the patterns of the flow of the blood into the brain, we can predict what a person is seeing or thinking.
 
-Like most part of the body, brain consumes oxygen and that is done by the flow of blood which carries it. When we see something or think about something, blood rushes into a certain part of the brain that consumes the oxygen most. We can take images of the brain using fMRI machines which measure the oxygen levels within the brain. If we have a sufficient examples of the patterns of the flow of the blood into the brain, we can predict what a person is seeing or thinking.  
-
-
-
+<p align="center">
+  <img src="images/mindreading.jpg">
+</p>
 
 
 # Project Definition
