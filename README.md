@@ -1,13 +1,13 @@
 # Brain Decoding
 Author: Shiva Shamloo
 
-I'm a second year master student in Computer Science working in Bioinformatics. My research is mostly about applying AI algorithms to protein sequences which will affect the food productivity in aqriculture. My aim is to learn about different sciences as much as possible since I think they can be most useful when they are used together. 
+I'm a second year master student in Computer Science working in Bioinformatics. The project that we are working on is called TooT Suite. My research is mostly about applying AI algorithms to protein sequences which will affect the food productivity in agriculture. My aim is to learn about different sciences as much as possible since I think they can be most useful when they are used together. 
 
 
 # Background
-Like most part of the body, Brain consumes Oxygen and that is done by the flow of blood which carries oxygen. When we see something or think about something, blood rushes into a certain part of the brain that consumes oxygen the most. We can take images of the brain using fMRI machines which measure the oxygen levels within the brain. If we have a sufficient about of examples of the patterns of the flow of the blood into the brain, we can predict what a person is seeing or thinking.  
+Like most part of the body, brain consumes oxygen and that is done by the flow of blood which carries it. When we see something or think about something, blood rushes into a certain part of the brain that consumes the oxygen most. We can take images of the brain using fMRI machines which measure the oxygen levels within the brain. If we have a sufficient examples of the patterns of the flow of the blood into the brain, we can predict what a person is seeing or thinking.  
 
-![Image of Yaktocat](https://images.app.goo.gl/KqQA2s6ss6d39sK37)
+
 
 # Project Definition
 ## Summary
