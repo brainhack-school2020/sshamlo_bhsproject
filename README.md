@@ -1,14 +1,18 @@
 # Brain Decoding
 Author: Shiva Shamloo
 
-# Background
-
 I'm a second year master student in Computer Science working in Bioinformatics. My research is mostly about applying AI algorithms to protein sequences which will affect the food productivity in aqriculture. My aim is to learn about different sciences as much as possible since I think they can be most useful when they are used together. 
+
+
+# Background
+Like most part of the body, Brain consumes Oxygen and that is done by the flow of blood which carries oxygen. When we see something or think about something, blood rushes into a certain part of the brain that consumes oxygen the most. We can take images of the brain using fMRI machines which measure the oxygen levels within the brain. If we have a sufficient about of examples of the patterns of the flow of the blood into the brain, we can predict what a person is seeing or thinking.  
+
+![Image of Yaktocat](https://images.app.goo.gl/KqQA2s6ss6d39sK37)
 
 # Project Definition
 ## Summary
 
-My aim for the BrainHack School project is to stimulate mind reading that is by analyzing the brain we can guess what a person has seen or thinks. I tend to apply different classifiers and to find the best one. The ultimate goal which I don't think would be applicable during this summer school, would be to compare brain images from different people and understand a shared structure between brains.
+My aim for the BrainHack School project is to stimulate mind reading that is by analyzing the brain we can guess what a person has seen or thinks. I tend to apply different ML algortithms such as K-nearest neighbors, support vector machines and to find the best one. The ultimate goal which I don't think would be applicable during this summer school, would be to compare brain images from different people and understand a shared structure between brains.
 
 ## tools 
 * Jupyter notebook
